@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticLogging.Elasticsear
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticLogging.Tests", "tests\SemanticLogging.Tests\SemanticLogging.Tests.csproj", "{AD34AEDF-684E-4EAE-B3E3-715FE3F6E4BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticLogging.ApplicationInsights", "SemanticLogging.ApplicationInsights\SemanticLogging.ApplicationInsights.csproj", "{6CFDF1B8-700D-4CA1-AF08-3590DCA2297F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticLogging.ApplicationInsights", "src\SemanticLogging.ApplicationInsights\SemanticLogging.ApplicationInsights.csproj", "{6CFDF1B8-700D-4CA1-AF08-3590DCA2297F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
