@@ -20,7 +20,7 @@ namespace FullScale180.SemanticLogging.Sinks
     /// <summary>
     /// Sink that asynchronously writes entries to a Elasticsearch server.
     /// </summary>
-    public class ElasticsearchSink : IObserver<EventEntry>, IDisposable
+    public class ApplicationInsightsSink : IObserver<EventEntry>, IDisposable
     {
         private const string BulkServiceOperationPath = "_bulk";
 
